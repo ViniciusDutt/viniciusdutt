@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Vinícius</h1>
 <h3 align="center">A front-end developer who always aims to learn more about new technologies</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusdutt&show_icons=true&locale=en" alt="viniciusdutt" />
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusdutt&show_icons=true&locale=en&layout=compact" alt="viniciusdutt" /></p> -->
-<br><br><br><br><br><br><br>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusdutt&show_icons=true&locale=en" alt="viniciusdutt" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusdutt&show_icons=true&locale=en&layout=compact" alt="viniciusdutt" /></p>
+<br><br><br><br><br><br><br> -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
