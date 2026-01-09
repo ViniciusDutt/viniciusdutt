@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vinícius</h1>
+<h1 align="left">Hi, I'm Vinícius</h1>
 <h3 align="left">A front-end developer who always aims to learn more about new technologies</h3>
 
 <h3 align="left">Connect with me:</h3>
